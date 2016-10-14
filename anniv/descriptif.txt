@@ -1,0 +1,11 @@
+petit fichier texte pour explique la marche a suivre pour decouvrir ta surprise...
+
+1.suit juste les instruction
+	¤Clique sur le texte afficher pour en faire apparaitre un nouveau
+	¤une fois le nouveau texte apparu,recommence l'etape précedente mais avec le nouveau texte
+	¤Une fois a la Fin du découvira une petite attention sympa de ma part...
+
+BONNE CONTINUATION 
+
+
+ps:l'image s'affiche bien a la fin comme indiquée dans la capture d'ecran mais pour X raison le navigateur ne l'affiche qu'avec l'apercu en direct de l'éditeur de texte(mon editeur de texte:Bracket).

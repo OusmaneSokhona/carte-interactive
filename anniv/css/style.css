@@ -1,0 +1,40 @@
+body {
+	background-color: blue;
+	font-family: 'Arial', sans-serif;
+}
+
+#corps {
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	margin: 0px auto;
+	padding: 20px;
+}
+
+ul {
+	padding: 0
+}
+
+li {
+	background-color: #fff;
+	color: #000;
+	font-size: 20px;
+	list-style-type: none;
+	width: 20%;
+	margin: 0px auto;
+	border-radius: 3px;
+	border: 1px solid #000;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+#nouveau {
+	display: none;
+}
+
+.fond {
+	background: url('../image.jpg') no-repeat;
+	background-size: 100%;
+}
